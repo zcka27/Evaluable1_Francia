@@ -1,0 +1,21 @@
+.banner {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 30px;
+}
+
+img{
+    width: auto;
+    height: auto;
+}
+
+h1, h2, h3 {
+    color: #6B8E23;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.6;
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+    <pais id="+49">
+        <nombre>Alemania</nombre>
+        <continente>Europa</continente>
+        <capital>Berlín</capital>
+        <superficie>3000</superficie>
+        <poblacion>564123</poblacion>
+        <ciudades>
+            <ciudad>Hamburgo</ciudad>
+            <ciudad>Colonia</ciudad>
+        </ciudades>
+        <lenguas>
+            <lengua>Alemán</lengua>
+            <lengua>Inglés</lengua>
+        </lenguas>
+        <religiones>
+            <religion>Católica</religion>
+            <religion>Protestante</religion>
+        </religiones>
+        <moneda>Euro</moneda>
+    </pais>
+</paises>

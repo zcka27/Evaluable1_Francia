@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Añadir grammar?-->
+<pais>
+    <nombre>Francia</nombre>
+    <poblacion>46571235</poblacion>
+    <continente>Europa</continente>
+    <capital>París</capital>
+    <coordenadas>
+        <latitud>41.403388</latitud>
+        <longitud>2.17403</longitud>
+    </coordenadas>
+    <fotografias>
+        <foto>
+            <nombre>Museo del Louvre</nombre>
+            <descripcion>Museo con con cúpula de cristal</descripcion>
+            <url>https://prnt.sc/sZRPinZkWRY8</url>
+        </foto>
+        <foto>
+            <nombre>Río Senna</nombre>
+            <descripcion>Río que se extiende por la capital París</descripcion>
+            <url>https://prnt.sc/VNjIp5hGhsu8</url>
+        </foto>
+    </fotografias>
+</pais>
